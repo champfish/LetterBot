@@ -1,0 +1,20 @@
+{
+  "name": "LetterBotJS",
+  "version": "0.1.1",
+  "description": "Bot for Discord app",
+  "readme": "README.md",
+  "maintainers": [],
+  "author": "champfish",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/champfish/LetterBot.git"
+  },
+  "license": "Unlicense",
+  "dependencies": {
+    "discord.js": "11.2.1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  }
+}
